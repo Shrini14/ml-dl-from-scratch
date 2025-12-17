@@ -25,4 +25,3 @@ print(np.round(y_cap,2))
 print("w:",w)
 print("b:",b)
     
-###
